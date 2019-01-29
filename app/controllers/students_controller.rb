@@ -30,7 +30,4 @@ class StudentsController < ApplicationController
   end
 end
 
-    © 2019 GitHub, Inc.
-    Terms
-    Privacy
-    Secu
+  
